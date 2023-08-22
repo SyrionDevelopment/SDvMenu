@@ -25,6 +25,7 @@ namespace vMenuClient
             "Extremely Fast",
             "Extremely Fast v2.0",
             "Max Speed"
+            "Syrion Speed"
         };
 
         public NoClip()
